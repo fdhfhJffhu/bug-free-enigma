@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <style> 
+  body {background-color: #CE1126}
+  h6 {color: #996633}
+  p {color: #003F87}
+  h2 {color: #003F87}
+  h4 {color: #CE1126} 
+  
+  /* Add a yellow  background color to the top navigation */
+.topnav {
+  background-color: #FFCC00;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #CE1126;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #996633;
+  color: brown;
+}
+
+/* Change the color on hover */
+.topnav a.active {
+  background-color: #04AA6D;
+  color: green;
+}
+  </style> 
+  <div class="topnav" id="myTopNav">
+    <a href="#home" class="active">Home</a>
+  <div class='topnav'>
+    <a href="#contact">Contact</a>
+    <a href="#about">About</a>
+    <a href="https://band.us/band/7609569">Band</a>
+  </div>
+  <head>
+    <h2> Welcome To Boy Scout Troop 53! </h2>
+    <p> We are always looking for scouts. </p>
+  </head>
+  <body>
+  
+  <h6> Events </h6>
+    <h4>  2/5/22 Merit Badge Challenge: Farfield, OH</h4>
+      <h4> 2/8/22 Boy Scout Troops 0053 & 1053 Meeting: Loveland, OH</h4>
+        <h4> 2/12/22 Merit Badge Challenge Bethel: Bethel, OH </h4>
+          <h4> 2/15/22 Boy Scout Troops 0053 & 1053 Meeting: Loveland, OH</h4>
+              <h4> 2/19/22 Merit Badge Challenge Farfield: Farfield, OH</h4>
+                <h4> 2/20/22 Scout Sunday: Loveland, OH</h4>
+                  <h4> 2/22/22 Boy Scout Troops 0053 & 1053 Meeting </h4>
+                <h4>  2/26/22  Merit Badge Challenge Bethel: Bethel, OH </h4>
+              <h4> 3/1/22 Boy Scout Troops 0053 & 1053 </h4> 
+            <h4> 3/5/22 Merit Badge Challenge Central Cincinnati:  Cincinnati, OH </h4>
+          <h4> 3/8/22 Boy Scout Troops 0053 & 1053 Meeting: Loveland, OH </h4>  
+        <h4> 3/12/22  Merit Badge Challenge Northern Kentucky: Taylor Mill, KY </h4> 
+      <h4> 3/12/22 Merit Badge Challenge Bethel: Bethel, OH </h4> 
+    <h4> 3/22/22  Boy Scout Troop 0053 & 1053 </h4> 
+      <h4> 3/26/22 Merit Badge Challenge Northern Kentucky: Taylor Mill, KY </h4>
+        <h4> 3/29/22 Boy Scout Troops 0053 & 1053 Meeting </h4>
+          <h4> 
+  </body>
+</html>
